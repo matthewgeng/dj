@@ -1,0 +1,16 @@
+@file,1,DDJ-FLX4
+ActivePartDrums,,Button,,9732,9932,,,,9732,9932,,,,
+ActivePartInst,,Button,,9731,9931,,,,9731,9931,,,,
+ActivePartVocal,,Button,,9730,9930,,,,9730,9930,,,,
+FX1-1Select.FLANGER,,Button,9736,,,,,,,,,,,
+FX1-1Select.PITCH,,Button,9737,,,,,,,,,,,
+FX1-1Select.REVERB,,Button,9734,,,,,,,,,,,
+FX1-1Select.SPIRAL,,Button,9735,,,,,,,,,,,
+FX2-1Select.FLANGER,,Button,9936,,,,,,,,,,,
+FX2-1Select.PITCH,,Button,9937,,,,,,,,,,,
+FX2-1Select.REVERB,,Button,9934,,,,,,,,,,,
+FX2-1Select.SPIRAL,,Button,9935,,,,,,,,,,,
+PAD5_Sampler,PAD5_PadMode4,DdjSxPad,,,,,,,9734,9934,,,Fast;,FX1 REVERB
+PAD6_Sampler,PAD6_PadMode4,DdjSxPad,,,,,,,9735,9935,,,Fast;,FX1 SPIRAL
+PAD7_Sampler,PAD7_PadMode4,DdjSxPad,,,,,,,9736,9936,,,Fast;,FX1 FLANGER
+PAD8_Sampler,PAD8_PadMode4,DdjSxPad,,,,,,,9737,9937,,,Fast;,FX1 PITCH
